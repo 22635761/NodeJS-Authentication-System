@@ -7,12 +7,22 @@ This project contains a complete authentication system using Node.js, Express, a
 
 ## Features Implemented
 - **Sign-up with Email**: Create an account using your email and password.
+![alt text](public/dk.png)
+
+![alt text](public/dk_db.png)
 - **Sign-in**: Log into your account securely.
+![alt text](public/dn.png)
+
+đăng nhập thành công:
+![alt text](public/dntc.png)
+
 - **Sign Out**: Log out of your session.
 - **Reset Password**: You can reset your passwords after signing in.
+![alt text](public/c_pass.png)
 - **Encrypted Passwords**: Passwords are securely stored using encryption.
 - **Google Login/Signup**: Sign in or sign up using your Google account.
 - **Forgot Password**: Reset your password via email.
+![alt text](public/f_pass.png)
 - **Password Strength Validation**: Notifications are displayed for unmatching passwords during sign up and incorrect passwords during sign in.
 - **reCAPTCHA Integration**: Protects against bot traffic on sign up and login pages.
 
